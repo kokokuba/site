@@ -1,0 +1,19 @@
+{
+  "name": "kokokuba-site",
+  "version": "1.0.0",
+  "description": "Kokokuba's site",
+  "main": "deploy.js",
+  "scripts": {
+    "test": "haha no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokokuba/site.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kokokuba/site/issues"
+  },
+  "homepage": "https://github.com/kokokuba/site#readme"
+}
