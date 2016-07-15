@@ -15,5 +15,21 @@
   "bugs": {
     "url": "https://github.com/kokokuba/site/issues"
   },
-  "homepage": "https://github.com/kokokuba/site#readme"
+  "homepage": "https://github.com/kokokuba/site#readme",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "chalk": "^1.1.3",
+    "css-mqpacker": "^5.0.1",
+    "cssnano": "^3.7.3",
+    "gh-pages": "^0.11.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.1.1",
+    "npm-run-all": "^2.3.0",
+    "postcss-cssnext": "^2.7.0",
+    "postcss-focus": "^1.0.0",
+    "postcss-font-magician": "^1.4.0",
+    "postcss-import": "^8.1.2",
+    "postcss-nested": "^1.0.0",
+    "postcss-scss": "^0.1.8"
+  }
 }
