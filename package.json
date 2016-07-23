@@ -35,7 +35,7 @@
     "postcss-font-magician": "^1.4.0",
     "postcss-import": "^8.1.2",
     "postcss-nested": "^1.0.0",
-    "postcss-scss": "^0.1.8"
+    "postcss-scss": "^0.1.9"
   },
   "dependencies": {
     "tachyons-background-size": "^4.0.0",
